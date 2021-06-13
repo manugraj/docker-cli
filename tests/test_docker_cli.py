@@ -2,7 +2,7 @@ import docker_cli
 
 
 def test_version():
-    assert docker_cli.__version__ == '1.0.0'
+    assert docker_cli.__version__ == '1.0.2'
 
 
 def test_docker():
